@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/lduchemin/cucumber-java-selenium-webdriver-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/markwinspear/Selenium-cucumber-java-main-test-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Demo Suite" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
